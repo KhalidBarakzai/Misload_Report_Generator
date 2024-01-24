@@ -1,6 +1,5 @@
 # Misload_Report_Generator
-#Author: Khalid Barakzai
-#June, 2023
+June, 2023
 
 This script serves the purpose of generating a package misload report. It achieves this by executing the following tasks:
 Extracting two specific columns of data from an Excel sheet and constructing a name-route ID map. This map associates Loaders with multiple route IDs.
