@@ -19,11 +19,8 @@ from os.path import join
 from typing import Dict, List
 from collections import defaultdict
 import glob
-from datetime import datetime
 from openpyxl import load_workbook
 from docx import Document
-from docx.shared import Pt
-from datetime import datetime
 from docx.shared import Pt
 from datetime import datetime, timedelta
 from docx.shared import RGBColor
